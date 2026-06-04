@@ -21,4 +21,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-/.idea/
+
+__pycache__/
+*.pyc
+.idea/
+*.iml
