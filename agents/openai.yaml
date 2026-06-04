@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove Watermarks Lite"
+  short_description: "Remove selected image watermarks with LaMA."
+  default_prompt: "Use $remove-watermarks-skill to preview and remove a watermark from an authorized local image."
